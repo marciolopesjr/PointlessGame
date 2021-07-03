@@ -1,6 +1,6 @@
 {
-  "name": "GAMEBOY",
-  "description": "GameBoy Online GAMEBOY Emulator",
+  "name": "Pointless",
+  "description": "Just a simple game.",
   "launch_path": "/index.html",
   "fullscreen": true,
   "icons": {
