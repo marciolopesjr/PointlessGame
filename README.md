@@ -2,6 +2,8 @@
 
 <p>O Jogo se encontra em um nível bem inicial de desenvolvimento. Não espere muito</p>
 
+![pointless](https://user-images.githubusercontent.com/23439537/124479262-785d5d80-dd7c-11eb-927f-0525d41f1b34.png)
+
 # Controles
 
 Up - Up Arrow / W  
